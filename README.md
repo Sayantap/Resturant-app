@@ -1,4 +1,4 @@
-# Resturant app
+# Resturant Table Booking app
 
 A Flutter application table booking for a resturant.
 
